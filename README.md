@@ -27,7 +27,7 @@ Projetos em desenvolvimento:
 |---|---|---|
 | [Quick Read](https://quickread.falcaosl.com) | Leitura de ebooks com RSVP. | Kotlin Multiplatform |
 | [Lira](https://lira.falcaosl.com) | Idiomas e repetição espaçada. | Kotlin Multiplatform · Rust |
-| [MiniMLX](https://minimlx.falcaosl.com) | IA local no iPad. | Swift · MLX |
+| [PocketRocket](https://pocketrocket.falcaosl.com) | IA local no iPad. | Swift · MLX |
 | [SwipeClean](https://swipeclean.falcaosl.com) | Organização da galeria por gestos. | Swift · PhotoKit |
 | [Infinity War](https://infinitywar.falcaosl.com) | Runner-shooter de um toque. | Flutter |
 | [Hortfrut](https://hortfrut.falcaosl.com) | Gestão de hortifrúti, da cotação à entrega. | Rust · HTMX |
