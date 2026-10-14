@@ -1,49 +1,70 @@
-<p align="center"><img src="assets/falcon.svg" width="76" alt="Falcão — marca da Falcao SL"></p>
+<p align="center">
+  <a href="https://falcaosl.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/falcaosl-horizontal-on-dark-web.png">
+      <img src="assets/falcaosl-horizontal-on-light-web.png" width="260" alt="Falcao SL">
+    </picture>
+  </a>
+</p>
 <h1 align="center">Iramar Falcão</h1>
-<p align="center"><strong>Senior Software Engineer · Fundador da Falcao SL</strong><br>Fortaleza, Brasil</p>
-<p align="center"><a href="https://iramarfalcao.github.io/resume/">Currículo</a> · <a href="https://falcaosl.com">Aplicativos</a> · <a href="https://www.linkedin.com/in/iramarfalcao/">LinkedIn</a> · <a href="mailto:dev@falcaosl.com">Contato</a></p>
+<p align="center"><strong>Senior Software Engineer · Fundador da Falcao SL / Founder of Falcao SL</strong><br>Fortaleza, Ceará, Brasil</p>
+<p align="center"><a href="#português">Português</a> · <a href="#english">English</a></p>
+<p align="center"><a href="https://iramarfalcao.github.io/resume/">Currículo</a> · <a href="https://iramarfalcao.github.io/en/resume/">Resume</a> · <a href="https://falcaosl.com">Falcao SL</a> · <a href="https://www.linkedin.com/in/iramarfalcao/">LinkedIn</a> · <a href="mailto:dev@falcaosl.com">dev@falcaosl.com</a></p>
 
-## Sobre
+## Português
 
-Sou engenheiro de software com trajetória em tecnologia desde 2015. Trabalho com **sistemas financeiros, aplicações distribuídas e cloud**, com Java, Kotlin, Spring, Quarkus e AWS.
+Construo sistemas backend para bancos e grandes empresas. Nos últimos 10 anos, isso significou uma plataforma de investimentos para o BR Partners, um produto de dados criado do zero para o Itaú, um sistema de gestão de entregas para o Grupo Boticário e uma plataforma de dados de segurança pública com bilhões de registros para o Ministério da Justiça.
 
-Atualmente sou **Senior Software Engineer na Sciensa, atuando no BR Partners**, desde fevereiro de 2023. Antes, trabalhei na Zup / Itaú, CI&T / Boticário, Insight Data Science Lab, UNIFOR, Sistema FIEC e METROFOR, além da experiência inicial com ERP na RCosta Consultoria.
+Hoje sou **Senior Software Engineer na Sciensa, atuando no BR Partners**, desde fevereiro de 2023, onde construo um sistema agêntico com RAG que planeja tarefas, escreve e mantém código e revisa pull requests no CI. Na **[Falcao SL](https://falcaosl.com)**, meu estúdio, publico aplicativos próprios para macOS, iOS e Android em infraestrutura que gerencio como código.
 
-Na **[Falcao SL](https://falcaosl.com)**, crio aplicativos próprios: desenho, desenvolvo, publico e mantenho os produtos e a infraestrutura que os sustenta. Meu foco é software útil, com privacidade e controle para quem usa.
+### Aplicativos da Falcao SL
 
-## Aplicativos publicados
+| Aplicativo | O que resolve | Plataforma | Situação |
+|---|---|---|---|
+| **[S-Clean](https://sclean.falcaosl.com)** | Limpeza e desinstalação com revisão de cada arquivo antes da remoção. | macOS | Na Mac App Store |
+| **[HyperEnv](https://hyperenv.falcaosl.com)** | Variáveis de ambiente por projeto, alternância de perfis e reversão. Open source, MIT. | macOS · Windows · Linux | Pré-lançamento |
+| **[BR Generator](https://brgenerator.falcaosl.com)** | Geração e validação de documentos brasileiros fictícios para testes. | Android · iOS · Web | Web no ar, Android em teste fechado |
 
-| Aplicativo | O que resolve | Plataforma |
-|---|---|---|
-| **[S-Clean](https://sclean.falcaosl.com)** | Limpeza e desinstalação com revisão de arquivos antes da remoção. | macOS |
-| **[HyperEnv](https://hyperenv.falcaosl.com)** | Variáveis de ambiente por projeto, alternância de perfis e reversão. Open source, MIT. | macOS |
-| **[BR Generator](https://brgenerator.falcaosl.com)** | Geração e validação de documentos brasileiros fictícios para testes. | Android · iOS · Web |
+Em desenvolvimento: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (em revisão na App Store), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) e [MeuPosto](https://meuposto.falcaosl.com).
 
-## No estúdio
+### Tecnologias
 
-Projetos em desenvolvimento:
+- **Backend e cloud:** Java, Kotlin, Spring Boot, Quarkus, Kafka, RabbitMQ, AWS, Docker e Kubernetes.
+- **IA aplicada:** RAG, agentes de IA, MLOps, modelos locais com Apple MLX.
+- **Web e dados:** TypeScript, React, Angular, PostgreSQL, MongoDB, Spark e Airflow.
+- **Aplicativos e produtos próprios:** Swift, SwiftUI, Kotlin Multiplatform, Rust, Terraform, Ansible e GitHub Actions.
 
-| Projeto | Proposta | Tecnologias |
-|---|---|---|
-| [Quick Read](https://quickread.falcaosl.com) | Leitura de ebooks com RSVP. | Kotlin Multiplatform |
-| [Lira](https://lira.falcaosl.com) | Idiomas e repetição espaçada. | Kotlin Multiplatform · Rust |
-| [PocketRocket](https://pocketrocket.falcaosl.com) | IA local no iPad. | Swift · MLX |
-| [SwipeClean](https://swipeclean.falcaosl.com) | Organização da galeria por gestos. | Swift · PhotoKit |
-| [Infinity War](https://infinitywar.falcaosl.com) | Runner-shooter de um toque. | Flutter |
-| [Hortfrut](https://hortfrut.falcaosl.com) | Gestão de hortifrúti, da cotação à entrega. | Rust · HTMX |
-| [MeuPosto](https://meuposto.falcaosl.com) | Preços de combustível com participação da comunidade. | Rust · PostGIS · KMP |
+### Formação
 
-## Tecnologias
+Especialização em Arquitetura de Sistemas para Internet (UNI7, 2017–2018) e graduação tecnológica em Análise e Desenvolvimento de Sistemas (Estácio, 2014–2016).
 
-- **Backend e cloud:** Java, Kotlin, Spring, Quarkus, Kafka, RabbitMQ, AWS, Docker e Kubernetes.
-- **Web e dados:** JavaScript, TypeScript, React, Angular, PostgreSQL, SQL Server, Oracle e MongoDB.
-- **Aplicativos:** Swift, SwiftUI, Kotlin Multiplatform, Compose e Flutter.
-- **Infraestrutura e produtos próprios:** Rust, Terraform, Ansible, Cloudflare, Proxmox e GitHub Actions.
-- **IA aplicada:** Apple MLX, modelos locais e integração de APIs.
+Trajetória completa em **[iramarfalcao.github.io](https://iramarfalcao.github.io)**.
 
-## Formação
+## English
 
-**Especialização em Arquitetura de Sistemas para Internet** — UNI7, 2017–2018.<br>
-**Graduação tecnológica em Análise e Desenvolvimento de Sistemas** — Estácio, 2014–2016.
+I build backend systems for banks and large companies. Over the last 10 years that has meant an investment platform for BR Partners, a data product built from scratch for Itaú, a delivery system for Grupo Boticário and a public-safety data platform with billions of records for Brazil's Ministry of Justice.
 
-Minha trajetória completa, experiências e projetos estão em **[iramarfalcao.github.io](https://iramarfalcao.github.io)**.
+Today I'm a **Senior Software Engineer at Sciensa, working on BR Partners** since February 2023, where I'm building an agentic system with RAG that plans tasks, writes and maintains code and reviews pull requests in CI. At **[Falcao SL](https://falcaosl.com)**, my studio, I ship my own apps for macOS, iOS and Android on infrastructure I manage as code.
+
+### Falcao SL apps
+
+| App | What it solves | Platform | Status |
+|---|---|---|---|
+| **[S-Clean](https://sclean.falcaosl.com)** | Cleaning and uninstalling with a review of every file before removal. | macOS | On the Mac App Store |
+| **[HyperEnv](https://hyperenv.falcaosl.com)** | Environment variables per project, profile switching and rollback. Open source, MIT. | macOS · Windows · Linux | Pre-release |
+| **[BR Generator](https://brgenerator.falcaosl.com)** | Generation and validation of fictional Brazilian documents for testing. | Android · iOS · Web | Web live, Android in closed testing |
+
+In development: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (in App Review), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) and [MeuPosto](https://meuposto.falcaosl.com).
+
+### Technologies
+
+- **Backend and cloud:** Java, Kotlin, Spring Boot, Quarkus, Kafka, RabbitMQ, AWS, Docker and Kubernetes.
+- **Applied AI:** RAG, AI agents, MLOps, local models with Apple MLX.
+- **Web and data:** TypeScript, React, Angular, PostgreSQL, MongoDB, Spark and Airflow.
+- **Own apps and products:** Swift, SwiftUI, Kotlin Multiplatform, Rust, Terraform, Ansible and GitHub Actions.
+
+### Education
+
+Postgraduate Specialization in Internet Systems Architecture (UNI7, 2017–2018) and Technologist Degree in Systems Analysis and Development (Estácio, 2014–2016).
+
+Full career on **[iramarfalcao.github.io/en](https://iramarfalcao.github.io/en/)**.
