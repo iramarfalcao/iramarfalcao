@@ -23,7 +23,6 @@ Hoje sou **Senior Software Engineer na Sciensa, atuando no BR Partners**, desde 
 |---|---|---|---|
 | **[S-Clean](https://sclean.falcaosl.com)** | Limpeza e desinstalação com revisão de cada arquivo antes da remoção. | macOS | Na Mac App Store |
 | **[HyperEnv](https://hyperenv.falcaosl.com)** | Variáveis de ambiente por projeto, alternância de perfis e reversão. Open source, MIT. | macOS · Windows · Linux | Pré-lançamento |
-| **[BR Generator](https://brgenerator.falcaosl.com)** | Geração e validação de documentos brasileiros fictícios para testes. | Android · iOS · Web | Web no ar, Android em teste fechado |
 
 Em desenvolvimento: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (em revisão na App Store), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) e [MeuPosto](https://meuposto.falcaosl.com).
 
@@ -52,7 +51,6 @@ Today I'm a **Senior Software Engineer at Sciensa, working on BR Partners** sinc
 |---|---|---|---|
 | **[S-Clean](https://sclean.falcaosl.com)** | Cleaning and uninstalling with a review of every file before removal. | macOS | On the Mac App Store |
 | **[HyperEnv](https://hyperenv.falcaosl.com)** | Environment variables per project, profile switching and rollback. Open source, MIT. | macOS · Windows · Linux | Pre-release |
-| **[BR Generator](https://brgenerator.falcaosl.com)** | Generation and validation of fictional Brazilian documents for testing. | Android · iOS · Web | Web live, Android in closed testing |
 
 In development: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (in App Review), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) and [MeuPosto](https://meuposto.falcaosl.com).
 
