@@ -22,7 +22,6 @@ Hoje sou **Senior Software Engineer na Sciensa, atuando no BR Partners**, desde 
 | Aplicativo | O que resolve | Plataforma | Situação |
 |---|---|---|---|
 | **[S-Clean](https://sclean.falcaosl.com)** | Limpeza e desinstalação com revisão de cada arquivo antes da remoção. | macOS | Na Mac App Store |
-| **[HyperEnv](https://hyperenv.falcaosl.com)** | Variáveis de ambiente por projeto, alternância de perfis e reversão. Open source, MIT. | macOS · Windows · Linux | Pré-lançamento |
 
 Em desenvolvimento: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (em revisão na App Store), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) e [MeuPosto](https://meuposto.falcaosl.com).
 
@@ -50,7 +49,6 @@ Today I'm a **Senior Software Engineer at Sciensa, working on BR Partners** sinc
 | App | What it solves | Platform | Status |
 |---|---|---|---|
 | **[S-Clean](https://sclean.falcaosl.com)** | Cleaning and uninstalling with a review of every file before removal. | macOS | On the Mac App Store |
-| **[HyperEnv](https://hyperenv.falcaosl.com)** | Environment variables per project, profile switching and rollback. Open source, MIT. | macOS · Windows · Linux | Pre-release |
 
 In development: [Quick Read](https://quickread.falcaosl.com), [Lira](https://lira.falcaosl.com), [PocketRocket](https://pocketrocket.falcaosl.com), [SwipeClean](https://swipeclean.falcaosl.com) (in App Review), [Infinity War](https://infinitywar.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com) and [MeuPosto](https://meuposto.falcaosl.com).
 
