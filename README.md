@@ -26,7 +26,7 @@ Today I'm a **Senior Software Engineer at Sciensa, working on BR Partners** sinc
 
 In review: [SwipeClean](https://swipeclean.falcaosl.com), [Quick Read](https://quickread.falcaosl.com).
 
-In development: [PocketRocket](https://pocketrocket.falcaosl.com), [Lira](https://lira.falcaosl.com), [MeuPosto](https://meuposto.falcaosl.com), [Pitaia Med](https://pitaia.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com), [Matiz](https://matiz.falcaosl.com), [Dictasy](https://dictasy.falcaosl.com) and [Infinity War](https://infinitywar.falcaosl.com).
+In development: [PocketRocket](https://pocketrocket.falcaosl.com), [Lira](https://lira.falcaosl.com), [MeuPosto](https://meuposto.falcaosl.com), [Pitaia Med](https://pitaia.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com), [Matiz](https://matiz.falcaosl.com) and [Dictasy](https://dictasy.falcaosl.com).
 
 ### Technologies
 
@@ -56,7 +56,7 @@ Hoje sou **Senior Software Engineer na Sciensa, atuando no BR Partners**, desde 
 
 Em revisão: [SwipeClean](https://swipeclean.falcaosl.com), [Quick Read](https://quickread.falcaosl.com).
 
-Em desenvolvimento: [PocketRocket](https://pocketrocket.falcaosl.com), [Lira](https://lira.falcaosl.com), [MeuPosto](https://meuposto.falcaosl.com), [Pitaia Med](https://pitaia.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com), [Matiz](https://matiz.falcaosl.com), [Dictasy](https://dictasy.falcaosl.com) e [Infinity War](https://infinitywar.falcaosl.com).
+Em desenvolvimento: [PocketRocket](https://pocketrocket.falcaosl.com), [Lira](https://lira.falcaosl.com), [MeuPosto](https://meuposto.falcaosl.com), [Pitaia Med](https://pitaia.falcaosl.com), [Hortfrut](https://hortfrut.falcaosl.com), [Matiz](https://matiz.falcaosl.com) e [Dictasy](https://dictasy.falcaosl.com).
 
 ### Tecnologias
 
