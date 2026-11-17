@@ -1,2 +1,7 @@
 # macOS
 .DS_Store
+
+# Lixo local e artefatos gerados
+*.profraw
+*.profdata
+xcuserdata/
